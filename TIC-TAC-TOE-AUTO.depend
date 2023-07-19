@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1548568573 source:e:\project\tic-tac-toe-auto\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+
+1548573060 source:g:\c++\tic-tac-toe-auto\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
+1548573060 source:h:\c++\tic-tac-toe-auto\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<cstdlib>
+	<ctime>
+
